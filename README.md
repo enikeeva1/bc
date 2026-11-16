@@ -26,3 +26,7 @@ https://itislabs.ru/nbc/chain
 
 https://itislabs.ru/nbc/blockchain/autors либо
 http://itislabs.ru/nbc/blockchain/autors
+
+## Задание дня
+
+Обучите нейросеть и вычислите значение функции ошибки, указанной в файле
